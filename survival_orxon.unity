@@ -4872,7 +4872,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 46
+  MapVersion: 47
   MapName: Orxon
   MapAuthor: Dnawrkshp
   MapDescription: '\blue\[MEDIUM]\normal\
@@ -23886,6 +23886,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 5
   MaxSpawnedAtOnce: 0
@@ -65079,11 +65081,112 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Mob: 0
   Variant: 0
-  Behavior: 0
+  Behavior: 3
   Attributes: 4
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions:
+  - MinCooldownSeconds:
+      HasOverride: 0
+      OverrideValue: 0
+    MaxCooldownSeconds:
+      HasOverride: 0
+      OverrideValue: 0
+    Probability:
+      HasOverride: 0
+      OverrideValue: 0
+    QueuedForTicks:
+      HasOverride: 0
+      OverrideValue: 0
+  - MinCooldownSeconds:
+      HasOverride: 0
+      OverrideValue: 0
+    MaxCooldownSeconds:
+      HasOverride: 0
+      OverrideValue: 0
+    Probability:
+      HasOverride: 0
+      OverrideValue: 0
+    QueuedForTicks:
+      HasOverride: 0
+      OverrideValue: 0
+  - MinCooldownSeconds:
+      HasOverride: 0
+      OverrideValue: 0
+    MaxCooldownSeconds:
+      HasOverride: 0
+      OverrideValue: 0
+    Probability:
+      HasOverride: 0
+      OverrideValue: 0
+    QueuedForTicks:
+      HasOverride: 0
+      OverrideValue: 0
+  Parameters:
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
+  - FloatValue:
+      HasOverride: 0
+      OverrideValue: 0
+    IntValue:
+      HasOverride: 0
+      OverrideValue: 0
+    BoolValue:
+      HasOverride: 0
+      OverrideValue: 0
   SpecialRoundOnly: 0
   MinRound: 10
   MaxSpawnedAtOnce: 0
@@ -74092,6 +74195,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 5
   MaxSpawnedAtOnce: 0
@@ -137239,6 +137344,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 0
   MaxSpawnedAtOnce: 0
@@ -387753,6 +387860,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 15
   MaxSpawnedAtOnce: 0
@@ -388983,6 +389092,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 0
   MaxSpawnedAtOnce: 0
@@ -396638,6 +396749,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 10
   MaxSpawnedAtOnce: 0
@@ -417042,6 +417155,8 @@ MonoBehaviour:
   BlipType:
     HasOverride: 0
     OverrideValue: 0
+  Actions: []
+  Parameters: []
   SpecialRoundOnly: 0
   MinRound: 10
   MaxSpawnedAtOnce: 0
