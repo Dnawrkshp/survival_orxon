@@ -4872,7 +4872,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 47
+  MapVersion: 48
   MapName: Orxon
   MapAuthor: Dnawrkshp
   MapDescription: '\blue\[MEDIUM]\normal\
@@ -29399,9 +29399,12 @@ MonoBehaviour:
   Defines: []
   Files:
   - {fileID: 102900000, guid: 7776218c72604a74ebc7e954d28963fe, type: 3}
+  LoadFunctionName: 
   InitFunctionName: 
   CleanupFunctionName: 
+  StartFunctionName: 
   TickFunctionName: 
+  DrawFunctionName: 
   WaitForClientsReady: 0
   Metas: []
 --- !u!1 &141188390
